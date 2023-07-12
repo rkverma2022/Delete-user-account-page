@@ -16,4 +16,11 @@ To delete user account you can delete directly from the app and to delete releva
 *body*:
 
 
-      email: 'example@gmail.com'
+     Please Delete my account data of username : 'put your email here'
+
+
+
+Thank You !
+
+
+SHER Team
