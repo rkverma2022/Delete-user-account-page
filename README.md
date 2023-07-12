@@ -3,7 +3,17 @@ To delete user account you can delete directly from the app and to delete releva
 
 *Email Should Contain:*
 
+*To* : 
 
-*Sub*: Request to delete my account data
+      guestlogin2app2023@gmail.com 
+
+
+*Sub*:
+
+      Request to delete my account data
+
+
 *body*:
-  email: 'example@gmail.com'
+
+
+      email: 'example@gmail.com'
